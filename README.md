@@ -8,6 +8,7 @@ Passionate about technologies, video games and web programming student. I am cur
 
 * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/)
 * ✉️  You can contact me at [lucassouza00012345@gmail.com](mailto:lucassouza00012345@gmail.com)
+* 🤝  I'm open to collaborating on JavaScript, HTML, CSS and React projects.
 * 🧠  I'm learning Python and TypeScript.
 
 ### Skills
