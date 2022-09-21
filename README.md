@@ -10,8 +10,6 @@ Passionate about technologies, video games (Dark Souls ❤️) and web programmi
 * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/)
 * ✉️  You can contact me at [lucassouza00012345@gmail.com](mailto:lucassouza00012345@gmail.com)
 * 🧠  I'm learning Python and TypeScript.
-* 🤝  I'm open to collaborating on javascript projects.
-* ⚡  I love to talk about different subjects, just call 😁
 
 ### Skills
 
