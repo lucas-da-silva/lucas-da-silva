@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas da Silva
 Web Developer
 -------------
 
-Passionate about technologies, video games (Dark Souls ❤️) and web programming student. I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
+Passionate about technologies, video games and web programming student. I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
 
 * 🌍  I'm based in Amapá, Brazil.
 * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/)
