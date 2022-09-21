@@ -6,7 +6,6 @@ Web Developer
 
 Passionate about technologies, video games and web programming student. I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
 
-* 🌍  I'm based in Amapá, Brazil.
 * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/)
 * ✉️  You can contact me at [lucassouza00012345@gmail.com](mailto:lucassouza00012345@gmail.com)
 * 🧠  I'm learning Python and TypeScript.
@@ -29,10 +28,6 @@ Passionate about technologies, video games and web programming student. I am cur
 <p align="left"> <a href="https://www.github.com/lucas-da-silva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-da-silva-2153901a7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lucas-da-silva"><img src="https://github-readme-stats.vercel.app/api?username=lucas-da-silva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucas-da-silva's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
