@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas da Silva
 ===============================
 
-Junior Front-end developer
+Junior Front-end Developer
 -------------
 
 I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
