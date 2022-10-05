@@ -1,10 +1,10 @@
 Hi 👋 My name is Lucas da Silva
 ===============================
 
-Web Developer
+Junior Front-end developer
 -------------
 
-Passionate about technologies, video games and web programming student. I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
+I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
 
 * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/)
 * ✉️  You can contact me at [lucassouza00012345@gmail.com](mailto:lucassouza00012345@gmail.com)
