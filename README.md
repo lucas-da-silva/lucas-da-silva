@@ -22,13 +22,3 @@ Passionate about technologies, video games and web programming student. I am cur
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/lucas-da-silva/project-trybewallet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-da-silva&repo=project-trybewallet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lucas-da-silva/project-trivia" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-da-silva&repo=project-trivia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/lucas-da-silva/project-trybetunes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-da-silva&repo=project-trybetunes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lucas-da-silva/project-tryunfo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-da-silva&repo=project-tryunfo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
