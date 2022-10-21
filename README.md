@@ -6,7 +6,7 @@ Junior Front-end Developer
 
 I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/)
+<!-- * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/) -->
 * ✉️  You can contact me at [lucassouza00012345@gmail.com](mailto:lucassouza00012345@gmail.com)
 * 🤝  I'm open to collaborating on JavaScript, HTML, CSS and React projects.
 * 🧠  I'm learning Python and TypeScript.
