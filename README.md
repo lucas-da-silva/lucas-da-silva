@@ -9,7 +9,7 @@ I am currently studying at Trybe, a web development school, and I intend to purs
 <!-- * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/) -->
 * ✉️  You can contact me at [lucasdasilvadev1@gmail.com](mailto:lucasdasilvadev1@gmail.com)
 * 🤝  I'm open to collaborating on JavaScript, HTML, CSS, React and Node.js projects.
-* 🧠  I'm learning Python and TypeScript.
+* 🧠  I'm learning Java.
 
 ### Skills
 
