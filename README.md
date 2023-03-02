@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
 
-<!-- * 🖥️  See my portfolio at [MyPortfolio](http://https://lucas-da-silva.github.io/) -->
+See my portfolio at [MyPortfolio](https://lucasdasilva.vercel.app/)
 * ✉️  You can contact me at [lucasdasilvadev1@gmail.com](mailto:lucasdasilvadev1@gmail.com)
 * 🤝  I'm open to collaborating on JavaScript, HTML, CSS, React and Node.js projects.
 * 🧠  I'm learning Java.
