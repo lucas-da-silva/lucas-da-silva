@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas da Silva
 Full Stack Developer
 -------------
 
-I am currently studying at Trybe, a web development school, and I intend to pursue a career as a web developer.
+I am currently working as a freelancer and looking for a job as a web developer.
 
 * See my portfolio at [MyPortfolio](https://lucasdasilva.vercel.app/)
 * ✉️  You can contact me at [lucasdasilvadev1@gmail.com](mailto:lucasdasilvadev1@gmail.com)
