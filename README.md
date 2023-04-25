@@ -4,10 +4,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdasilvadev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasdasilvadev1@gmail.com)
 
--------------
+---
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="18"/> Sobre mim
-Olá, sou um desenvolvedor web FullStack apaixonado por resolver problemas e criar aplicações que agregam valor. Fui impactado positivamente por tecnologias no meu desenvolvimento, e por meio da criação de softwares inovadores que geram impacto positivo, realizo o meu objetivo como desenvolvedor.   
+
+Olá, sou um desenvolvedor web FullStack apaixonado por resolver problemas e criar aplicações que agregam valor. Fui impactado positivamente por tecnologias no meu desenvolvimento, e por meio da criação de softwares inovadores que geram impacto positivo, realizo o meu objetivo como desenvolvedor.
 
 Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código das coisas que construo, sendo o foco do desenvolvimento o usuário.
 
@@ -15,9 +16,9 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
 - 🤝 estou aberto a colaborar em projetos open-source;
 - 🧠 aprendendo Java ☕
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA3NDE3NDVmZmYwMGJjOTBmNzMxZDkwNTQ1MTM5MjVhOWVjNWNjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UVG0BN8TOMKkPOJS6e/giphy.gif"  width="18"/> Linguagens e ferramentas 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA3NDE3NDVmZmYwMGJjOTBmNzMxZDkwNTQ1MTM5MjVhOWVjNWNjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UVG0BN8TOMKkPOJS6e/giphy.gif"  width="18"/> Linguagens e ferramentas
 
-#### Front End
+#### :computer: Front End
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,7 +31,7 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
   <img alt="React Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)" />
 </p>
 
-#### Back End
+#### :wrench: Back End
 
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)" />
@@ -52,19 +53,20 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
 
 #### :computer: Front End
 
-| Todo List                                                                                                             | Wallet                                                                                                         | Trivia                                                                                                     | Coffee Delivery                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Repositório]() - [Demo]() | [Repositório]() - [Demo]() | [Repositório]() - [Demo]() | [Repositório]() - [Demo]() |
-| ![Todo]()                                                                                              | ![Wallet]()                                                                                   | ![Trivia]()                                                                               | ![Timer]()                                                                                          |
+| Wallet                                                                                                               | Super Trunfo                                                                                                           | Trivia                                                                                                               | Porfolio                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [Repositório](https://github.com/lucas-da-silva/trybewallet) - [Demo](https://lucas-da-silva.github.io/trybewallet/) | [Repositório](https://github.com/lucas-da-silva/tryunfo-game) - [Demo](https://lucas-da-silva.github.io/tryunfo-game/) | [Repositório](https://github.com/lucas-da-silva/trivia-game) - [Demo](https://lucas-da-silva.github.io/trivia-game/) | [Repositório](https://github.com/lucas-da-silva/lucas-da-silva-homepage) - [Demo](https://lucasdasilva.vercel.app/) |
+| ![Wallet](/imgs/trybewallet.png)                                                                                     | ![Super Trunfo](/imgs/tryunfo.png)                                                                                     | ![Trivia](/imgs/trivia.png)                                                                                          | ![Portfolio](/imgs/portfolio.png)                                                                                   |
 
 #### :wrench: Back End
 
-| Soccer Manager                                                  |                        Blogs API                         | Car Shop                                             | CRUD de Clientes                                               |
-| --------------------------------------------------------------- | :------------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
-| [Repositório]() | [Repositório]() | [Repositório]() | [Repositório]() |
+| Soccer Club                                                            |                             Blogs API                              | Car Shop                                                      | Inventory Report                                                         |
+| ---------------------------------------------------------------------- | :----------------------------------------------------------------: | ------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Repositório](https://github.com/lucas-da-silva/api-trybe-soccer-club) | [Repositório](https://github.com/lucas-da-silva/project-blogs-api) | [Repositório](https://github.com/lucas-da-silva/api-car-shop) | [Repositório](https://github.com/lucas-da-silva/python-inventory-report) |
 
-### Badges
+</br>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lucas-da-silva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-da-silva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucas-da-silva GitHub stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucas-da-silva" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-da-silva&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<p>
+  <img alt="Lucas da Silva GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lucas-da-silva&theme=dracula&show_icons=true" />
+  <img alt="Lucas da Silva Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-da-silva&theme=dracula&layout=compact" />
+</p>
