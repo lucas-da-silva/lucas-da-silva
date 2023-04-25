@@ -1,14 +1,22 @@
-<h1 align="center"> Lucas da Silva - Desenvolvedor FullStack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+<h1 align="center"> Lucas da Silva - Desenvolvedor Full Stack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lucasdasilva.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdasilvadev/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasdasilvadev1@gmail.com)
+<p>
+  <a href="https://lucasdasilva.vercel.app/"> 
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasdasilvadev/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucasdasilvadev1@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="18"/> Sobre mim
 
-Olá, sou um desenvolvedor web FullStack apaixonado por resolver problemas e criar aplicações que agregam valor. Fui impactado positivamente por tecnologias no meu desenvolvimento, e por meio da criação de softwares inovadores que geram impacto positivo, realizo o meu objetivo como desenvolvedor.
+Olá, sou um desenvolvedor web Full Stack apaixonado por resolver problemas e criar aplicações que agregam valor. Fui impactado positivamente por tecnologias no meu desenvolvimento, e por meio da criação de softwares inovadores que geram impacto positivo, realizo o meu objetivo como desenvolvedor.
 
 Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código das coisas que construo, sendo o foco do desenvolvimento o usuário.
 
