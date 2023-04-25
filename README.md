@@ -68,5 +68,6 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
 
 <p>
   <img alt="Lucas da Silva GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lucas-da-silva&theme=dracula&show_icons=true" />
+  &nbsp;
   <img alt="Lucas da Silva Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-da-silva&theme=dracula&layout=compact" />
 </p>
