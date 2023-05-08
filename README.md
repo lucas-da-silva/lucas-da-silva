@@ -68,9 +68,9 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
 
 #### :wrench: Back End
 
-| Soccer Club                                                            |                             Blogs API                              | Car Shop                                                      | Inventory Report                                                         |
-| ---------------------------------------------------------------------- | :----------------------------------------------------------------: | ------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Repositório](https://github.com/lucas-da-silva/api-trybe-soccer-club) | [Repositório](https://github.com/lucas-da-silva/project-blogs-api) | [Repositório](https://github.com/lucas-da-silva/api-car-shop) | [Repositório](https://github.com/lucas-da-silva/python-inventory-report) |
+| Soccer Club                                                            |                             Blogs API                              | Scrape Tech News                                                  | Inventory Report                                                         |
+| ---------------------------------------------------------------------- | :----------------------------------------------------------------: | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Repositório](https://github.com/lucas-da-silva/api-trybe-soccer-club) | [Repositório](https://github.com/lucas-da-silva/project-blogs-api) | [Repositório](https://github.com/lucas-da-silva/scrape-tech-news) | [Repositório](https://github.com/lucas-da-silva/python-inventory-report) |
 
 </br>
 
