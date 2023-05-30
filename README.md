@@ -16,7 +16,7 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="18"/> Sobre mim
 
-Olá, sou um desenvolvedor web Full Stack apaixonado por resolver problemas e criar aplicações que agregam valor. Fui impactado positivamente por tecnologias no meu desenvolvimento, e por meio da criação de softwares inovadores que geram impacto positivo, realizo o meu objetivo como desenvolvedor.
+Fui impactado positivamente por tecnologias no meu desenvolvimento, e por meio da criação de softwares inovadores que geram impacto positivo, realizo o meu objetivo como desenvolvedor.
 
 Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código das coisas que construo, sendo o foco do desenvolvimento o usuário.
 
@@ -68,9 +68,9 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
 
 #### :wrench: Back End
 
-| Soccer Club                                                            |                             Blogs API                              | Car Shop                                                      | Inventory Report                                                         |
-| ---------------------------------------------------------------------- | :----------------------------------------------------------------: | ------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Repositório](https://github.com/lucas-da-silva/api-trybe-soccer-club) | [Repositório](https://github.com/lucas-da-silva/project-blogs-api) | [Repositório](https://github.com/lucas-da-silva/api-car-shop) | [Repositório](https://github.com/lucas-da-silva/python-inventory-report) |
+| Soccer Club                                                            |                             Blogs API                              | Scrape Tech News                                                  | Inventory Report                                                         |
+| ---------------------------------------------------------------------- | :----------------------------------------------------------------: | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Repositório](https://github.com/lucas-da-silva/api-trybe-soccer-club) | [Repositório](https://github.com/lucas-da-silva/project-blogs-api) | [Repositório](https://github.com/lucas-da-silva/scrape-tech-news) | [Repositório](https://github.com/lucas-da-silva/python-inventory-report) |
 
 </br>
 
