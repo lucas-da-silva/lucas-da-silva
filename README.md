@@ -44,7 +44,7 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <!-- <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> -->
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=SQL&logoColor=white)" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -63,7 +63,7 @@ Tomo muito cuidado com a experiência, a arquitetura e a qualidade do código da
 
 | Wallet                                                                                                               | Super Trunfo                                                                                                           | Trivia                                                                                                               | Porfolio                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [Repositório](https://github.com/lucas-da-silva/trybewallet) - [Demo](https://lucas-da-silva.github.io/trybewallet/) | [Repositório](https://github.com/lucas-da-silva/tryunfo-game) - [Demo](https://lucas-da-silva.github.io/tryunfo-game/) | [Repositório](https://github.com/lucas-da-silva/trivia-game) - [Demo](https://lucas-da-silva.github.io/trivia-game/) | [Repositório](https://github.com/lucas-da-silva/lucas-da-silva-homepage) - [Demo](https://lucasdasilva.vercel.app/) |
+| [Repositório](https://github.com/lucas-da-silva/wallet) - [Demo](https://lucas-wallet.vercel.app) | [Repositório](https://github.com/lucas-da-silva/tryunfo-game) - [Demo](https://lucas-da-silva.github.io/tryunfo-game/) | [Repositório](https://github.com/lucas-da-silva/trivia-game) - [Demo](https://lucas-da-silva.github.io/trivia-game/) | [Repositório](https://github.com/lucas-da-silva/lucas-da-silva-homepage) - [Demo](https://lucasdasilva.vercel.app/) |
 | ![Wallet](/imgs/trybewallet.png)                                                                                     | ![Super Trunfo](/imgs/tryunfo.png)                                                                                     | ![Trivia](/imgs/trivia.png)                                                                                          | ![Portfolio](/imgs/portfolio.png)                                                                                   |
 
 #### :wrench: Back End
